@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3.9
 import getpass
 import requests
 from xml.etree import ElementTree as ET
