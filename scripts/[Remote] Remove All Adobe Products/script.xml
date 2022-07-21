@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>[Remote] Remove All Adobe Products</name>
+   <category>Adobe</category>
+   <info>Remove All Adobe Products</info>
+   <notes>Migrated from William M. script on Kace</notes>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

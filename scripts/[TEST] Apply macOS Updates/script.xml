@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<script>
+   <name>[TEST] Apply macOS Updates</name>
+   <category>Security</category>
+   <info>prompts user to install updates using built in Apple update manager</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters>
+      <parameter4>Upgrade type - major or minor</parameter4>
+      <parameter6>Current Policy Trigger Name</parameter6>
+      <parameter7>Start Date - (MMM DD HH:MM:SS -0700 YYYY)</parameter7>
+      <parameter8>Nag Date (optional)  - (MMM DD HH:MM:SS -0700 YYYY)</parameter8>
+      <parameter9>End Date - (MMM DD HH:MM:SS -0700 YYYY)</parameter9>
+      <parameter10>Reprompt (seconds)</parameter10>
+      <parameter11>Timeout (seconds)</parameter11>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Install Adobe Flash (Install Latest Version)</name>
+   <category>Adobe</category>
+   <info>This script will download and install the latest version of Adobe Flash.</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

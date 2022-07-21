@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Force System Reboot</name>
+   <category>Help Tools</category>
+   <info>Force System Reboot with a message to the user</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

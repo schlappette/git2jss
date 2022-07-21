@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Uninstall Splashtop Streamer</name>
+   <category>IT Tools</category>
+   <info/>
+   <notes>Created: 04/21/2020</notes>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

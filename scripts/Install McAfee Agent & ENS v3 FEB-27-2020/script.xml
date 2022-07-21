@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Install McAfee Agent &amp; ENS v3 FEB-27-2020</name>
+   <category>Security</category>
+   <info>02/27/2020
+Managed EPO agent 5.6.3
+Endpoint Security Platform 10.6.7</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

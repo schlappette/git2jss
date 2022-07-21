@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Install FireEye</name>
+   <category>Security</category>
+   <info/>
+   <notes/>
+   <priority>After</priority>
+   <parameters>
+      <parameter4>PKG filename</parameter4>
+      <parameter5>Config filename</parameter5>
+      <parameter6>Icon filename</parameter6>
+      <parameter7>Title for prompt</parameter7>
+      <parameter8>Heading for prompt</parameter8>
+      <parameter9>Description for prompt</parameter9>
+      <parameter10>Timeout for prompt in seconds</parameter10>
+      <parameter11>Prompt (0 = show prompt with cancel; nocancel = show prompt without cancel; noprompt = do not show prompt)</parameter11>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

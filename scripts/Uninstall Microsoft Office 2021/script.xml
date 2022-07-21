@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Uninstall Microsoft Office 2021</name>
+   <category>IT Tools</category>
+   <info>The Script removes Office 2021
+Blake Pratt 06/24/2022</info>
+   <notes/>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

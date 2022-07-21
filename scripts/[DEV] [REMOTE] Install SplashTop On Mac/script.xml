@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<script>
+   <name>[DEV] [REMOTE] Install SplashTop On Mac</name>
+   <category>IT Tools</category>
+   <info>Install Splashtop Streamer for Mac</info>
+   <notes>-d your_code: Inject your 12-digit deployment code to automatically associate the Streamer with your Splashtop Business team.
+-w 0: Do not show the confirmation prompt when injecting deployment code.
+-s 0: Do not show the Streamer window after installation.
+-v 0: Do not install Soundflower driver. This helps with deployment via Munki.
+Installing Soundflower driver will hang if the Mac has no users logged in at the time of deployment.
+-h 1 : hide tray icon (0/1). (default 0)</notes>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

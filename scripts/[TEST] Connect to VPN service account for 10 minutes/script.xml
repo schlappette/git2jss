@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<script>
+   <name>[TEST] Connect to VPN service account for 10 minutes</name>
+   <category>IT Tools</category>
+   <info>This will allow a mac with the VPN installed to be connected to the VPN service account for 10 minutes.</info>
+   <notes>Briar Schreiber 06/17/2020</notes>
+   <priority>After</priority>
+   <parameters>
+      <parameter4>Encrypted Password (see script for generating new one if updated)</parameter4>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

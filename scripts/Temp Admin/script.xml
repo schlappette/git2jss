@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Temp Admin</name>
+   <category>IT Tools</category>
+   <info/>
+   <notes>Source: https://github.com/jamf/MakeMeAnAdmin
+
+SELF SERVICE SCRIPT ONLY!
+-- Promotes logged in user to Admin for 15 mins. Downgrades the account after 15 min.</notes>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

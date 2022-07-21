@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Auto Launch NoMAD after it installs</name>
+   <category>IT Tools</category>
+   <info>Auto Launch NoMAD after it installs </info>
+   <notes/>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

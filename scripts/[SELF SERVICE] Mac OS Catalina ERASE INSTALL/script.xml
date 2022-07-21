@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<script>
+   <name>[SELF SERVICE] Mac OS Catalina ERASE INSTALL</name>
+   <category>Operating System</category>
+   <info/>
+   <notes>This script was written by Joshua Roskos at JAMF: https://github.com/kc9wwh/macOSUpgrade
+-- Modified: Added OS Version check function
+-- Disabled OS Check</notes>
+   <priority>After</priority>
+   <parameters>
+      <parameter4>Path to the Mac OS installer</parameter4>
+      <parameter5>Version of Mac OS</parameter5>
+      <parameter6>Download Policy Trigger</parameter6>
+      <parameter7>installESD Checksum (optional)</parameter7>
+      <parameter8>Upgrade or Erase (0 or 1)</parameter8>
+      <parameter9>Full Screen or Dialog Box (0 or 1)</parameter9>
+   </parameters>
+   <os_requirements/>
+   <script_contents/>
+</script>

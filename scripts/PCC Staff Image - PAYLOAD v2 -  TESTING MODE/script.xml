@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<script>
+   <name>PCC Staff Image - PAYLOAD v2 -  TESTING MODE</name>
+   <category>Device Provisioning</category>
+   <info>Uses DEP Notify Starter Script
+
+https://github.com/jamf/DEPNotify-Starter</info>
+   <notes>Created 12/05/2019
+By Yeshua Ervine
+=========================
+Modified 10/04/2021 - EB
+- Removed Firefox, Adobe Air, Adobe Flash, and Java
+- Changed to install Kace agent v11
+
+Modified 11/06/2020
+- Changed firefox trigger from installfirefoxESR to installfirefox
+
+Modified 11/06/2020
+- Changed Registration Window flag from True to False. Means payload will run without user input.
+
+Modified 11/06/2020
+- Changed Computer Name requirement from Mandatory to Optional
+
+Modified 05/19/2020
+- Added MS Office 2019 Trigger Policy
+
+Modified 02/28/2020
+- Adding McAfee Agent Trigger Policy compatible with Mac OS Catalina</notes>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Uninstall Read &amp; Write</name>
+   <category>Accessibility</category>
+   <info>Uninstalls Read &amp; Write</info>
+   <notes/>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

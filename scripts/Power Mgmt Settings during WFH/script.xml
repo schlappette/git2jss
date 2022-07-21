@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Power Mgmt Settings during WFH</name>
+   <category>Settings</category>
+   <info/>
+   <notes>• Turns Display Off after 15 minutes of idle time
+• Configures Computer Sleep settings to &quot;Never&quot;
+• Sets &quot;Put Hard Disks to Sleep when possible&quot; to &quot;Off&quot;
+• Wakes the system upon network acccess (e.g., remote access of some type)
+• Enables Startup automatically after a power failure
+• Turns on (or wakes) the system at 07:00 am Daily
+
+2020-0319 by Becka Leyon, Daniel Montgomery, and Jamie Costa</notes>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

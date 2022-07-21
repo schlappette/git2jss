@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Uninstall Microsoft Office 2016</name>
+   <category>IT Tools</category>
+   <info>The Script removes Office 2016
+Zack Mallark 01/31/2019</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

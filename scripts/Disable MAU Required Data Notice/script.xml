@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Disable MAU Required Data Notice</name>
+   <category>IT Tools</category>
+   <info>This disables the Microsoft Office MAU Required Data Notice after the install</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

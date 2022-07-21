@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<computer_extension_attribute>
+   <name>[EA] Battery Cycle Count</name>
+   <enabled>true</enabled>
+   <description>This attribute returns the number of charge cycles logged on the current battery.</description>
+   <data_type>Integer</data_type>
+   <input_type>
+      <type>script</type>
+      <platform>Mac</platform>
+      <script/>
+   </input_type>
+   <inventory_display>Hardware</inventory_display>
+   <recon_display>Extension Attributes</recon_display>
+</computer_extension_attribute>

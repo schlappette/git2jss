@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Set Default PCC Desktop Wallpaper</name>
+   <category>Settings</category>
+   <info>This Script will place the PCC Triangles Default Wallpaper under /Library/Desktop\ Pictures</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

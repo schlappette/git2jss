@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>[TEST] Uninstall Checkpoint VPN</name>
+   <category>IT Tools</category>
+   <info/>
+   <notes>Checks that the uninstall file is on the workstation then removes the application.</notes>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Stop MacOS Catalina Upgrade Advertisement</name>
+   <category>IT Tools</category>
+   <info>Script to prevent macOS Catalina upgrade advertisement from appearing in the Software Update preference pane on macOS Mojave</info>
+   <notes/>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

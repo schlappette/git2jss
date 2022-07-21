@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Remove from FileVault 2</name>
+   <category>IT Tools</category>
+   <info>Removes local account from filevault 2</info>
+   <notes/>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Install McAfee Agent &amp; ENS v2</name>
+   <category>Security</category>
+   <info>08/26/19
+Managed EPO agent 5.6.1
+Endpoint Security Platform 10.6.4</info>
+   <notes/>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<computer_extension_attribute>
+   <name>[EA] Chassis Type</name>
+   <enabled>true</enabled>
+   <description>Looks at Model ID, if word &quot;Book&quot; exists, its considered a laptop, else it is considered Desktop</description>
+   <data_type>String</data_type>
+   <input_type>
+      <type>script</type>
+      <platform>Mac</platform>
+      <script/>
+   </input_type>
+   <inventory_display>Hardware</inventory_display>
+   <recon_display>Extension Attributes</recon_display>
+</computer_extension_attribute>

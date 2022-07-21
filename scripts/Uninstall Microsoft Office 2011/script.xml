@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Uninstall Microsoft Office 2011</name>
+   <category>IT Tools</category>
+   <info/>
+   <notes/>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

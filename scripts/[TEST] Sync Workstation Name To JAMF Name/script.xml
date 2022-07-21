@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<script>
+   <name>[TEST] Sync Workstation Name To JAMF Name</name>
+   <category>IT Tools</category>
+   <info/>
+   <notes>Script to force a workstation to sync it's Hostname and Local Hostname to the name in the JAMF Pro Inventory of that workstation.
+
+Daniel Montgomery 10-14-2020</notes>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

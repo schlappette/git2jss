@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Uninstall Microsoft Office 2019</name>
+   <category>IT Tools</category>
+   <info>The Script removes Office 2019
+Yeshua Ervine 07/27/2020</info>
+   <notes/>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

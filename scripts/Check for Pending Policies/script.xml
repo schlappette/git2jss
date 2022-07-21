@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Check for Pending Policies</name>
+   <category>IT Tools</category>
+   <info/>
+   <notes>Runs &quot;sudo jamf policy&quot;</notes>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

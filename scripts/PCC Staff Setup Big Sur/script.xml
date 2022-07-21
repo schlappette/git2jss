@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<script>
+   <name>PCC Staff Setup Big Sur</name>
+   <category>Device Provisioning</category>
+   <info>Uses DEP Notify Starter Script
+
+https://github.com/jamf/DEPNotify-Starter</info>
+   <notes>Modified 10/04/2021
+- Removed Firefox
+
+Modified 09/15/2021
+- Updated for FireEye
+
+Modified 05/03/2021
+- Updated McAfee version
+
+Modified 12/18/2020
+- Added checks for PCC IT account
+- Disabled installation of Adobe Flash, Adobe Air, and Java
+
+Modified 11/06/2020
+- Changed Firefox trigger from installfirefoxESR to installfirefox
+
+Modified 11/06/2020
+- Changed Computer Name requirement from Mandatory to Optional
+
+Modified 05/19/2020
+- Added MS Office 2019 Trigger Policy
+
+Modified 02/28/2020
+- Adding McAfee Agent Trigger Policy compatible with Mac OS Catalina
+============================
+Created 12/05/2019
+By Yeshua Ervine</notes>
+   <priority>After</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

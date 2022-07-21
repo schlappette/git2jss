@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Avast Uninstall</name>
+   <category>Security</category>
+   <info>Script to uninstall Avast. Script pulled from the Avast uninstaller pkg.</info>
+   <notes/>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

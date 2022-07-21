@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<computer_extension_attribute>
+   <name>[EA] macOS File System Format</name>
+   <enabled>true</enabled>
+   <description>Shows the format of the macOS file system that is installed, APFS or HSF+.
+
+Daniel Montgomery 8-26-20</description>
+   <data_type>String</data_type>
+   <input_type>
+      <type>script</type>
+      <platform>Mac</platform>
+      <script/>
+   </input_type>
+   <inventory_display>General</inventory_display>
+   <recon_display>Extension Attributes</recon_display>
+</computer_extension_attribute>

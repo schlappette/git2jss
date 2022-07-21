@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<computer_extension_attribute>
+   <name>[EA] Last user NoMAD password expire date</name>
+   <enabled>true</enabled>
+   <description>Gets the last user's nomad config and reads the expire date.</description>
+   <data_type>Date</data_type>
+   <input_type>
+      <type>script</type>
+      <platform>Mac</platform>
+      <script/>
+   </input_type>
+   <inventory_display>General</inventory_display>
+   <recon_display>Extension Attributes</recon_display>
+</computer_extension_attribute>

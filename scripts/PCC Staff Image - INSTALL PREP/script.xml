@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>PCC Staff Image - INSTALL PREP</name>
+   <category>Device Provisioning</category>
+   <info>Removes plist files generated from dep provisioning.</info>
+   <notes/>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>

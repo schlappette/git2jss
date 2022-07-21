@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<computer_extension_attribute>
+   <name>[EA] Kace Patch Management | Last Deploy</name>
+   <enabled>true</enabled>
+   <description>Shows the last deploy date for Kace patch management.
+
+Briar Schreiber 05/28/2020</description>
+   <data_type>Date</data_type>
+   <input_type>
+      <type>script</type>
+      <platform>Mac</platform>
+      <script/>
+   </input_type>
+   <inventory_display>General</inventory_display>
+   <recon_display>Extension Attributes</recon_display>
+</computer_extension_attribute>

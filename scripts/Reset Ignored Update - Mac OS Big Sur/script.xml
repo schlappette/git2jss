@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<script>
+   <name>Reset Ignored Update - Mac OS Big Sur</name>
+   <category>Operating System</category>
+   <info/>
+   <notes>This will reset the ignored update list on Macs, allowing them to run the Mac OS Big Sur upgrade.</notes>
+   <priority>Before</priority>
+   <parameters/>
+   <os_requirements/>
+   <script_contents/>
+</script>
