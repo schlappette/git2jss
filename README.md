@@ -8,7 +8,10 @@ A fast asynchronous python library for syncing your scripts in git with your JSS
 2.  Install [Python version 3.6](https://www.python.org/downloads/) or higher. (this is because of the async requirements)
 3.  Run `python3.6 -m pip install -r requirements.txt` to install required modules
 4.  Run `./tools/download.py --url https://your.jss.url:8443 --username api_user` to download all scripts and extension attributes to the repository
-5.  Run `./sync.py --url https://your.jss.url:8443 --username api_user` to sync all scripts back to your JSS
+5.  Comment out the *Example scripts and EAs* section in `./.gitignore`.  
+    1.  This will begin tracking the downloaded scripts and EAs with git version control.
+    2.  `git add` all the downloaded scripts and EAs to complete the process of managing them with git.
+6.  Run `./sync.py --url https://your.jss.url:8443 --username api_user` to sync all scripts back to your JSS
 
 Optional flags for `download.py`:
 
@@ -28,7 +31,7 @@ Optional flags for `sync.py`:
 -   `--jenkins` to write a Jenkins file:`jenkins.properties` with `$scripts` and `$eas` and compare `$GIT_PREVIOUS_COMMIT` with `$GIT_COMMIT`
 
 ### Prerequisites
-git2jss requires [Python 3.6](https://www.python.org/downloads/) and the python modules listed in `requirements.txt`
+git2jss requires [Python 3.6](https://www.python.org/downloads/) or newer, and the python modules listed in `requirements.txt`
 
 ## Deployment
 The project can be run ad-hoc with the example listed above, but ideally you setup webhooks and integrate into a CI/CD pipeline so each time a push is made to the repo your scripts are re-uploaded to the JSS.
