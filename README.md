@@ -31,7 +31,7 @@ Optional flags for `sync.py`:
 git2jss requires [Python 3.6](https://www.python.org/downloads/) and the python modules listed in `requirements.txt`
 
 ## Deployment
-The project can be ran ad-hoc with the example listed above, but ideally you setup webhooks and integrate into a CI/CD pipeline so each time a push is made to the repo your scripts are re-uploaded to the JSS.
+The project can be run ad-hoc with the example listed above, but ideally you setup webhooks and integrate into a CI/CD pipeline so each time a push is made to the repo your scripts are re-uploaded to the JSS.
 
 ## Contributing
-PR's are always welcome!
+PRs are always welcome!
